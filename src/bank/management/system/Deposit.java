@@ -68,7 +68,7 @@ public class Deposit extends JFrame implements ActionListener {
                 }else{
                     Con c1 = new Con();
                     c1.statement.executeUpdate("insert into deposit values('"+password+"','"+date+"','Deposit','"+amount+"')");
-                    JOptionPane.showMessageDialog(null,"Rs. "+amount+" Deposited Syccessfully.");
+                    JOptionPane.showMessageDialog(null,"Rs. "+amount+" Deposited Successfully.");
                     setVisible(false);
                     new main_Class(password);
                 }
