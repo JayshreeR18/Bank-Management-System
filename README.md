@@ -36,7 +36,7 @@ This project demonstrates **Object-Oriented Programming (OOP)** principles, **GU
 ## ⚡ Getting Started
 
 ### Login 
-![Login page](src/images/Login.png)
+![Login page](src/images/Loginpage.png)
 
 ### Sign Up
 ![Create New Account](src/images/Signup1-createAcc.png)
