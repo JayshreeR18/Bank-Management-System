@@ -28,15 +28,13 @@ This project demonstrates **Object-Oriented Programming (OOP)** principles, **GU
 ## 🛠️ Tech Stack
 - **Language:** Java (Swing for GUI)
 - **Database:** MySQL (JDBC connectivity)
-- **IDE:** IntelliJ IDEA
-- **Version Control:** Git & GitHub
 
 ---
 
 ## ⚡ Getting Started
 
 ### Login 
-![Login page](src/images/Login.png)
+![Login page](src/images/Loginpage.png)
 
 ### Sign Up
 ![Create New Account](src/images/Signup1-createAcc.png)
@@ -69,6 +67,6 @@ This project demonstrates **Object-Oriented Programming (OOP)** principles, **GU
 ### E-Mini Statement
 ![Mini Statement](src/images/E-Mini%20Statement.png)
 
-### 1️⃣ Clone the repository
+### SETUP
 ```bash
 git clone https://github.com/JayshreeR18/Bank-Management-System.git
