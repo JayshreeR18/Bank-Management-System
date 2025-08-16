@@ -1,4 +1,4 @@
-# 🏦 Bank Management System (Digital ATM)
+# Bank Management System (Digital ATM)
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 About
+##  About
 The **Bank Management System** is a **Java Swing-based desktop application** that simulates a **digital ATM**.  
 It provides a user-friendly GUI for performing banking operations such as deposits, withdrawals, balance inquiry, and **E-Mini Statements** for quick transaction summaries.
 
@@ -15,23 +15,23 @@ This project demonstrates **Object-Oriented Programming (OOP)** principles, **GU
 
 ---
 
-## ✨ Features
-- 🔑 **User Authentication** – Secure login with account credentials.  
-- 💰 **Deposit & Withdraw** – Manage funds like a real ATM.  
-- 👀 **Balance Inquiry** – Check account balance instantly.  
-- 📜 **E-Mini Statement** – View a short summary of recent transactions (like ATM receipts).  
-- 🖥️ **Interactive GUI** – Built with Java Swing for a smooth user experience.  
-- 🗄️ **Database Support** – MySQL stores user info and transaction history.  
+##  Features
+-  **User Authentication** – Secure login with account credentials.  
+-  **Deposit & Withdraw** – Manage funds like a real ATM.  
+-  **Balance Inquiry** – Check account balance instantly.  
+-  **E-Mini Statement** – View a short summary of recent transactions (like ATM receipts).  
+-  **Interactive GUI** – Built with Java Swing for a smooth user experience.  
+-  **Database Support** – MySQL stores user info and transaction history.  
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - **Language:** Java (Swing for GUI)
 - **Database:** MySQL (JDBC connectivity)
 
 ---
 
-## ⚡ Getting Started
+##  Getting Started
 
 ### Login 
 ![Login page](src/images/Loginpage.png)
