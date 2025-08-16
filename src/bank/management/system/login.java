@@ -90,7 +90,7 @@ public class login extends JFrame implements ActionListener {
 
 
 
-        ImageIcon bgimg = new ImageIcon(ClassLoader.getSystemResource("icon/background.jpg"));
+        ImageIcon bgimg = new ImageIcon(ClassLoader.getSystemResource("icon/backbg.png"));
         Image imgbg = bgimg.getImage().getScaledInstance(850,480,Image.SCALE_DEFAULT);
         ImageIcon i3 = new ImageIcon(imgbg);
         JLabel image3 = new JLabel(i3);
